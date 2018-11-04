@@ -1,3 +1,3 @@
 # pterodactyl
-chmod u+x install.sh
+chmod u+x install.sh<br>
 ./install.sh
